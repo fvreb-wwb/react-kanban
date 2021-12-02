@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/lourenci/react-kanban/workflows/Test/badge.svg?branch=main)](https://github.com/lourenci/react-kanban/actions?query=branch%3Amain+workflow%3ATest)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-Yet another Kanban/Trello board lib for React.
+UPDATED Yet another Kanban/Trello board lib for React.
 
 ![Kanban Demo](https://i.imgur.com/yceKUEp.gif)
 
